@@ -1,0 +1,1080 @@
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 36
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 0
+  value: 0  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 1
+  value: 0  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 2
+  value: 0  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 3
+  value: 0  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 4
+  value: 0  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 5
+  value: 0  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 6
+  value: 0  
+transaction id: 37
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 7
+  value: 0
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 0
+  value: 0  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 1
+  value: 0  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 2
+  value: 0  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 3
+  value: 0  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 4
+  value: 0  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 5
+  value: 0  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 6
+  value: 0  
+transaction id: 39
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 7
+  value: 0
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 40
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 41
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 42
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 43
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 44
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 44
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 45
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 45
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 0
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 1
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 2
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 3
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 4
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 5
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 6
+  value: 0  
+transaction id: 46
+  data point id: 0x3102
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 7
+  value: 0
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 47
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 48
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 49
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 50
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 51
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 51
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 52
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 52
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 0
+  value: 25.4508  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 1
+  value: 24.9167  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 2
+  value: 25.2374  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 3
+  value: 25.4414  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 4
+  value: 25.4414  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 5
+  value: 25.4879  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 6
+  value: 25.1722  
+transaction id: 53
+  data point id: 0x3104
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 7
+  value: 24.6681
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 54
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 55
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 56
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 57
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 58
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 58
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 59
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 59
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 0
+  value: 25.1126  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 1
+  value: 25.1733  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 2
+  value: 25.6055  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 3
+  value: 25.4368  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 4
+  value: 25.4368  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 5
+  value: 24.6383  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 6
+  value: 25.339  
+transaction id: 60
+  data point id: 0x3105
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 7
+  value: 25.6266
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 61
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 62
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 63
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 64
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 65
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 65
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 66
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 66
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 67
+  data point id: 0x0201
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 0
+  value: 305.8  
+transaction id: 67
+  data point id: 0x0201
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 1
+  value: 301.1  
+transaction id: 67
+  data point id: 0x0201
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 2
+  value: 302.7  
+transaction id: 67
+  data point id: 0x0201
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 3
+  value: 305
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 68
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 69
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 70
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 71
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 72
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 72
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 73
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 73
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 74
+  data point id: 0x0202
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 0
+  value: -300  
+transaction id: 74
+  data point id: 0x0202
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 1
+  value: -300  
+transaction id: 74
+  data point id: 0x0202
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 2
+  value: -300  
+transaction id: 74
+  data point id: 0x0202
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 3
+  value: -300
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 75
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 76
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 77
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 78
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 79
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 79
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 80
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 80
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 81
+  data point id: 0x0203
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 0
+  value: 0  
+transaction id: 81
+  data point id: 0x0203
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 1
+  value: 0  
+transaction id: 81
+  data point id: 0x0203
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 2
+  value: 0  
+transaction id: 81
+  data point id: 0x0203
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 3
+  value: 0
+Thu Nov 16 15:06:37 2023
+  
+transaction id: 82
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 83
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 84
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 85
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 86
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 86
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 87
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 87
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 88
+  data point id: 0x0204
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 0
+  value: 0  
+transaction id: 88
+  data point id: 0x0204
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 1
+  value: 0  
+transaction id: 88
+  data point id: 0x0204
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 2
+  value: 0  
+transaction id: 88
+  data point id: 0x0204
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 3
+  value: 0
+Thu Nov 16 15:06:38 2023
+  
+transaction id: 89
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 90
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 91
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 92
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 93
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 93
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 94
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 94
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 95
+  data point id: 0x0205
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 0
+  value: -273  
+transaction id: 95
+  data point id: 0x0205
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 1
+  value: -273  
+transaction id: 95
+  data point id: 0x0205
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 2
+  value: -273  
+transaction id: 95
+  data point id: 0x0205
+  result code: 0x0000 (EB_OK)
+ number of elements: 4
+  element index: 3
+  value: -273
+Thu Nov 16 15:06:38 2023
+  
+transaction id: 96
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 97
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 98
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 99
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 100
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 100
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 101
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 101
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 102
+  data point id: 0x0002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0
+Thu Nov 16 15:06:38 2023
+  
+transaction id: 103
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 104
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 105
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 106
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 107
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 107
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 108
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 108
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 109
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0
+Thu Nov 16 15:06:38 2023
+  
+transaction id: 110
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 111
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 112
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 113
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 114
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 114
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 115
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 115
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 0
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 1
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 2
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 3
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 4
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 5
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 6
+  value: 0  
+transaction id: 116
+  data point id: 0x1000
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 7
+  value: 0
+Thu Nov 16 15:06:38 2023
+  
+transaction id: 117
+  data point id: 0x1002
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 118
+  data point id: 0x1003
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 119
+  data point id: 0x1004
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 120
+  data point id: 0x2000
+  result code: 0x0000 (EB_OK)
+ number of elements: 0
+  element index: 0
+  value: 0  
+transaction id: 121
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 121
+  data point id: 0x0101
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 122
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 0
+  value: 0  
+transaction id: 122
+  data point id: 0x0100
+  result code: 0x0000 (EB_OK)
+ number of elements: 2
+  element index: 1
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 0
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 1
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 2
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 3
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 4
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 5
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 6
+  value: 0  
+transaction id: 123
+  data point id: 0x3101
+  result code: 0x0000 (EB_OK)
+ number of elements: 8
+  element index: 7
+  value: 0
